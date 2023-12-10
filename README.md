@@ -4,7 +4,7 @@
 
 I make some simple projects in my free time. Learning new things everyday. 
 
-Skills: Go /Java /C++ /C /Python /REACT / JS / HTML / CSS
+Skills: Go /Java /C++ /C /Python /React / JS / HTML / CSS
 
 - 🌱 I’m currently learning Go.
 
