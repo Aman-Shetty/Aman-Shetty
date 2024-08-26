@@ -7,8 +7,6 @@ I make some simple projects in my free time. Learning new things everyday.
 
 #### Frameworks: Angular, Django, fiber, SpringBoot
 
-#### AI: Tensorflow
-
 #### Database: Postgres, MySQL, MongoDB
 
 #### Tools: Docker, Kubernetes, Jenkins, JUnit
